@@ -18,6 +18,7 @@ body{
     border-radius: 10px;
     background-color: white;
     padding: 10px;
+    box-shadow: 3px 3px 5px black;
 }
 .container img{
     width: 100%;
